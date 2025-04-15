@@ -1,3 +1,7 @@
-# Used Chat GPT API for getting responses from the chatgpt . 
+# Utilised Chat GPT API for getting responses from the chatgpt . 
 Using node js to run the application. 
-Use: npm run start to start the server 
+To Start the Server ->
+npm run start
+
+
+
